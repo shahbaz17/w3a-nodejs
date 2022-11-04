@@ -3,7 +3,7 @@
 ## Quickstart
 
 ```bash
-git clone
+git clone https://github.com/shahbaz17/w3a-nodejs.git
 cd w3a-nodejs-example
 npm install
 npm start
