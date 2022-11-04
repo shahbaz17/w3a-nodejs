@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/shahbaz17/w3a-nodejs.git
-cd w3a-nodejs-example
+cd w3a-nodejs
 npm install
 npm start
 ```
